@@ -8,3 +8,126 @@
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:26:07.245
 !MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:39:35.981
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:39:36.189
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:40:54.671
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:40:55.717
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:40:58.057
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-07-05 17:40:58.080
+!MESSAGE Module maven-di-ee on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:43:34.872
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:43:35.018
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:43:35.036
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:43:36.085
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:43:38.918
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:44:55.978
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:44:56.134
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:44:56.153
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:44:57.201
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:45:00.136
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:45:29.865
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:45:30.003
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:45:40.440
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:45:41.479
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:45:43.719
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-07-05 17:45:43.756
+!MESSAGE Module maven-di-ee on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:45:50.748
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:45:50.919
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-07-05 17:46:03.787
+!MESSAGE Module maven-di-ee on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:46:44.849
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:46:45.889
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:46:48.222
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-07-05 17:46:48.250
+!MESSAGE Module maven-di-ee on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-07-05 17:47:08.276
+!MESSAGE Module maven-di-ee on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:47:32.693
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:47:32.835
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:47:32.854
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:47:33.899
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:47:36.276
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-07-05 17:48:06.509
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-07-05 17:48:06.651
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2018-07-05 17:48:11.523
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_144 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-07-05 17:48:12.564
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-07-05 17:48:14.899
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2018-07-05 17:48:14.916
+!MESSAGE Module maven-di-ee on WildFly  8.x not yet fully deployed. Waiting...
