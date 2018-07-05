@@ -1,0 +1,5 @@
+2018-07-05 16:00:53,343 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pl.javastart:DependencyInjection:0.0.1-SNAPSHOT @ D:\kurs_javastart_javaee-angularjs\DependencyInjection\pom.xml.
+2018-07-05 16:00:55,801 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DependencyInjection/src/main/java
+2018-07-05 16:00:55,803 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DependencyInjection/src/main/resources
+2018-07-05 16:00:55,804 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DependencyInjection/src/test/java
+2018-07-05 16:00:55,804 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DependencyInjection/src/test/resources
