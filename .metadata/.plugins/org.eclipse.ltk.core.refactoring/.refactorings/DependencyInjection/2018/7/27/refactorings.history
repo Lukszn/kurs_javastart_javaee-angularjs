@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;pl.javastart&apos; to &apos;maven-di/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;DependencyInjection&apos;&#x0D;&#x0A;- Destination element: &apos;maven-di/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;DependencyInjection/src/main/java/pl.javastart&apos;" description="Copy package" destination="=maven-di/src\/main\/java" element1="/src\/main\/java&lt;pl.javastart" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1530802278631" version="1.0"/>
+</session>
