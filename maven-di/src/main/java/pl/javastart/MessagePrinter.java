@@ -3,16 +3,20 @@ package pl.javastart;
 import javax.inject.Inject;
 
 public class MessagePrinter {
+	
+	private MessageProducer messageProducer;
 
-    private MessageProducer messageProducer;
+    public MessageProducer getMessageProducer() {
+        return messageProducer;
+    }
 
     @Inject
-    public MessagePrinter(MessageProducer messageProducer) {
+    public void setMessageProducer(MessageProducer messageProducer) {
         this.messageProducer = messageProducer;
     }
 
     public void printMessage() {
-        String message = messageProducer.getMessage();
+        String message = getMessageProducer().getMessage();
         System.out.println(message);
     }
 }
