@@ -1,8 +1,11 @@
-package pl.javastart;
+package pl.javastart.model;
 
 
 
-import pl.javastart.Message.MessageType;
+import javax.enterprise.inject.Any;
+
+import pl.javastart.qualifiers.Message.MessageType;
+import pl.javastart.qualifiers.Message;
 
 @Any
 @Message(type = MessageType.FILE)
