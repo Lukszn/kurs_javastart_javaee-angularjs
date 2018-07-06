@@ -1,14 +1,16 @@
 package pl.javastart;
 
+import org.jboss.weld.environment.se.Weld;
+import org.jboss.weld.environment.se.WeldContainer;
+
 public class Main {
-	
 	public static void main(String[] args) {
-		MessageProducer fileMsgProducer = new FileMessageProducer();
-		MessagePrinter filePrinter = new MessagePrinter(fileMsgProducer);
-		filePrinter.printMessage();
+		Weld weld = new Weld();
+		WeldContainer container = weld.initialize();
 		
-		MessageProducer simpleMsgProducer = new SimpleMessageProducer();
-		MessagePrinter simplePrinter = new MessagePrinter(simpleMsgProducer);
-		simplePrinter.printMessage();
+		MessagePrinter printer = container.instance().select(MessagePrinter.class).get();
+		printer.printMessage();
+		
+		weld.shutdown();
 	}
 }
