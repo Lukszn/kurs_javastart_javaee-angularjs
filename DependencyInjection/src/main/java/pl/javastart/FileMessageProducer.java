@@ -7,7 +7,12 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
 
-@FileMessage
+import javax.enterprise.inject.Any;
+
+import pl.javastart.Message.MessageType;
+
+@Message(type = MessageType.FILE)
+@Any
 public class FileMessageProducer implements MessageProducer {
 
     @Override

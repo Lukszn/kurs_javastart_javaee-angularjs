@@ -1,15 +1,15 @@
 package pl.javastart;
 
-import javax.enterprise.inject.Any;
-import javax.enterprise.inject.Default;
 
-@Default
-@Any
+
+import pl.javastart.Message.MessageType;
+
+
+@Message(type = MessageType.FILE)
 public class SimpleMessageProducer implements MessageProducer {
 
 	@Override
 	public String getMessage()  {
 		return "Example message " + System.currentTimeMillis();
 	}
-
 }

@@ -2,9 +2,11 @@ package pl.javastart;
 
 import javax.inject.Inject;
 
+import pl.javastart.Message.MessageType;
+
 public class MessagePrinter {
 	
-	@Inject @FileMessage
+	@Inject @Message(type = MessageType.FILE)
 	private MessageProducer messageProducer;
 	
 	public void printMessage() {
