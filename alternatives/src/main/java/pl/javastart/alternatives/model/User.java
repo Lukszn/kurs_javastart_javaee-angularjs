@@ -2,12 +2,12 @@ package pl.javastart.alternatives.model;
 
 public class User {
 	
-	private long id;
+	private Long id;
 	private String firstName;
 	private String lastName;
 	
 	
-	public User(long id, String firstName, String lastName) {
+	public User(Long id, String firstName, String lastName) {
 		this.id = id;
 		this.firstName = firstName;
 		this.lastName = lastName;
@@ -19,7 +19,7 @@ public class User {
 	}
 
 
-	public void setId(long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
